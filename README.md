@@ -1,6 +1,5 @@
-```markdown
 # CryptoFactory.exe - Fake Cryptocurrency Mining Application
-```
+
 
 ## Language(s) used
 
@@ -9,7 +8,6 @@
   <img src="https://skillicons.dev/icons?i=py">
 </picture>
 
-```markdown
 
 Welcome to **CryptoFactory.exe** – a fun and interactive fake cryptocurrency mining simulator built with Python and PyQt5. This application mimics the process of mining cryptocurrency with a user-friendly interface, fake GPU stats, and the ability to plot performance data in real-time.
 
