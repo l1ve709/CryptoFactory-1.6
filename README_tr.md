@@ -9,7 +9,7 @@
 </picture>
 
 
-```markdown
+
 
 **CryptoFactory.exe**'ye hoş geldiniz. Forklayıp, yıldız bırakıp takip ederseniz çok sevinirim, içeriğe geçelim; – Python ve PyQt5 ile geliştirilmiş gerçekçi bir program. Sahte GPU istatistikleri ve performans verilerini gerçek zamanlı olarak grafikleştirme yeteneği ile kripto para madenciliği sürecini taklit eder.
 
