@@ -1,6 +1,5 @@
-```markdown
+
 # CryptoFactory.exe - Sahte BTC Mining Uygulaması
-```
 
 ## Kullanılan Dil(ler)
 
