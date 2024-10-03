@@ -22,7 +22,8 @@
 - **BTC ve USD Değerleri**: Uygulama, madencilik ilerledikçe sahte Bitcoin ve USD değerlerini takip eder ve gösterir.
 - **Kullanıcı Etkileşimi**: İstediğiniz zaman madenciliği başlatın ve durdurun. Ayarlar, hakkında ve destek bağlantıları gibi ek özellikleri keşfedin.
 
-## Bağımlılıklar
+## Kütüphaneler 
+
 
 Uygulamayı çalıştırmak için aşağıdaki Python kütüphanelerinin yüklü olması gerekir:
 
