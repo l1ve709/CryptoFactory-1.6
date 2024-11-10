@@ -60,7 +60,9 @@ pip3 install PyQt5
 
 1. **Clone the repository**:
     ```bash
+    
     git clone https://github.com/l1ve709XXD/CryptoFactory-1.6.git
+    pip install -r requirements.txt
     cd CrpytoFactory.1.6
     python3 main.py
     ```
