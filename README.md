@@ -61,7 +61,8 @@ pip3 install PyQt5
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/l1ve709XXD/CryptoFactory-1.6.git
-    cd main.py
+    cd CrpytoFactory.1.6
+    python3 main.py
     ```
 
 2. **Make the script executable**:
