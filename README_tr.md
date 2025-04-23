@@ -64,7 +64,7 @@ pip3 install PyQt5
 1. **Depoyu Klonlayın**:
     ```bash
     git clone <https://github.com/l1ve709XXD/CryptoFactory-1.6.git>
-    cd <main.py>
+    cd main.py
     ```
 
 2. **Betiği çalıştırılabilir hale getirin**:
