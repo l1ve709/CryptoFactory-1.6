@@ -8,7 +8,7 @@
     # *   *       |_|_| \_/ \___/_/  \___/   /_/      *
     # *      *                                                     *    *
     # *    *          Contact Mail: businnes@l1ve709.com   *
-    # *   *            Contact to Instagram: l1ve709                *   *
+    # *   *            Contact to Instagram: ediz.dll                *   *
     # *      *            Created by Ediz Sönmez                       *
     # *****************************************************************
     # 
