@@ -129,7 +129,7 @@ This project is licensed under the GPL-3.0 license.
 - **Linux-Specific Notes**: Tips on dealing with permissions, ensuring Python 3 is being used, and troubleshooting PyQt5 installation.
 ```
 
-## My Discord Acc
+## My IG
 
-![My Discord](https://lantern.rest/api/v1/users/794909914760871967?svg=1&theme=dark&borderRadius=2&hideActivity=1&hideStatus=0)
+![INSTAGRAM](instagram.com/ediz.dll)
 
